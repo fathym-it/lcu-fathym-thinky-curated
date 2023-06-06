@@ -1,0 +1,20 @@
+{
+  "Package": {
+    "Name": "Thinky Curated LCUs",
+    "Description": "A curated list of LCUs known to work in Thinky.",
+    "Image": "https://www.fathym.com/assets/images/logo.png",
+    "PreviewImage": "https://www.fathym.com/assets/images/logo.png"
+  },
+  "Dependencies": [
+    "@fathym-it/lcu-alfresco-community-on-azure@thinky",
+    "@fathym-it/lcu-wordpress-on-azure@thinky",
+    "@fathym-it/lcu-auth0-frontend-starter@thinky",
+    "@fathym-it/lcu-modular-frontend@thinky",
+    "@fathym-it/lcu-public-web-react@thinky",
+    "@fathym-it/lcu-public-web-svelte@thinky",
+    "@fathym-it/lcu-public-web-vue@thinky",
+    "@fathym-it/lcu-eac-application-source-launch-pad@thinky",
+    "@fathym-it/lcu-eac-project-modifier-google-tag-manager@thinky"
+  ],
+  "Configurations": {}
+}
