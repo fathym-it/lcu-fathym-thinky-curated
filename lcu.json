@@ -6,7 +6,7 @@
     "PreviewImage": "https://www.fathym.com/assets/images/logo.png"
   },
   "Dependencies": [
-    "@fathym-it/lcu-alfresco-community-on-azure@thinky",
+    "@fathym-hyland/lcu-alfresco-community-on-azure@thinky",
     "@fathym-it/lcu-wordpress-on-azure@thinky",
     "@fathym-it/lcu-auth0-frontend-starter@thinky",
     "@fathym-it/lcu-modular-frontend@thinky",
