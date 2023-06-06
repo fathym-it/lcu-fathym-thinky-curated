@@ -7,8 +7,7 @@
   },
   "Dependencies": [
     "@fathym-hyland/lcu-alfresco-community-on-azure@thinky",
-    "@fathym-it/lcu-wordpress-on-azure-app-service@thinky",
-    "@fathym-it/lcu-auth0-frontend-starter",
+    "@fathym-it/lcu-auth0-frontend-launch-pad",
     "@fathym-it/lcu-modular-frontend@thinky",
     "@fathym-it/lcu-public-web-angular@thinky",
     "@fathym-it/lcu-public-web-react@thinky",
