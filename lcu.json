@@ -14,7 +14,8 @@
     "@fathym-it/lcu-public-web-svelte@thinky",
     "@fathym-it/lcu-public-web-vue@thinky",
     "@fathym-it/lcu-eac-application-source-launch-pad",
-    "@fathym-it/lcu-eac-project-modifier-google-tag-manager@thinky"
+    "@fathym-it/lcu-eac-project-modifier-google-tag-manager@thinky",
+    "@o-biotech/lcu-biotech-iot-launch-control"
   ],
   "Configurations": {}
 }
