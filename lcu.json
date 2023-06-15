@@ -28,6 +28,7 @@
     "@fathym-it/lcu-public-web-vue-open-source@thinky",
     "@fathym-it/lcu-public-web-svelte-open-source@thinky",
     "@fathym-it/lcu-eac-application-source-launch-pad",
+    "@fathym-it/lcu-eac-project-details-manager",
     "@fathym-it/lcu-eac-project-modifier-google-tag-manager@thinky",
     "@o-biotech/lcu-biotech-iot-launch-control@thinky"
   ],
