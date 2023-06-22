@@ -30,7 +30,8 @@
     "@fathym-it/lcu-eac-application-source-launch-pad",
     "@fathym-it/lcu-eac-project-details-manager@thinky",
     "@fathym-it/lcu-eac-project-modifier-google-tag-manager@thinky",
-    "@o-biotech/lcu-biotech-iot-launch-control@thinky"
+    "@o-biotech/lcu-biotech-iot-launch-control@thinky",
+    "@fathym-it/lcu-freeboard"
   ],
   "Configurations": {}
 }
