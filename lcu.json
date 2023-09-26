@@ -13,7 +13,7 @@
     "@fathym-it/lcu-public-web-react@thinky",
     "@fathym-it/lcu-public-web-svelte@thinky",
     "@fathym-it/lcu-public-web-vue@thinky",
-    "@fathym-it/lcu-arcade",
+    "@fathym-it/lcu-arcade@thinky",
     "@fathym-hyland/lcu-alfresco-default@thinky",
     "@fathym-it/lcu-public-web-docusaurus@thinky",
     "@fathym-it/lcu-public-web-gatsby@thinky",
