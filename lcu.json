@@ -27,7 +27,7 @@
     "@fathym-it/lcu-public-web-angular-open-source@thinky",
     "@fathym-it/lcu-public-web-vue-open-source@thinky",
     "@fathym-it/lcu-public-web-svelte-open-source@thinky",
-    "@fathym-it/lcu-eac-application-source-launch-pad",
+    "@fathym-it/lcu-eac-application-source-launch-pad@thinky",
     "@fathym-it/lcu-npm-package-deploy@thinky",
     "@fathym-it/lcu-eac-env-clouds-groups-ensure",
     "@fathym-it/lcu-eac-project-details-manager@thinky",
